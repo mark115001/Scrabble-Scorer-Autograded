@@ -3,7 +3,7 @@
 const input = require("readline-sync");
 
 const oldPointStructure = {
-  //0: [" "],
+  0: [" "],
   1: ["A", "E", "I", "O", "U", "L", "N", "R", "S", "T"],
   2: ["D", "G"],
   3: ["B", "C", "M", "P"],
